@@ -3,41 +3,41 @@
 
 Root ToolCase
 
-SHORT DESCRIPTION
+MÔ TẢ NGẮNCác tính năng của ứng dụng này rất mạnh mẽ, hãy cẩn thận sử dụng chúng đúng cách.
 *****************
 
-A great collection of tools to get more out of your android device!
+Một bộ sưu tập tuyệt vời của các công cụ để có được nhiều hơn ra khỏi thiết bị Android của bạn!
 
-FULL DESCRIPTION
+MÔ TẢ ĐẦY ĐỦ
 ****************
 
-<b>ROOT REQUIRED (this app won't root your device)</b>
+<b>YÊU CẦU ROOT THIẾT BỊ (phần mềm này sẽ không root thiết bị của bạn)</b>
 
-<b>DISCLAMER:</b>
-The features of this app are very powerful, be careful to use them properly.
-THE DEVELOPER OF THIS APP IS NOT RESPONSIBLE FOR DAMAGES TO YOUR DEVICE!
+<b>PHỦ NHẬN:</b>
+Các tính năng của ứng dụng này rất mạnh mẽ, hãy cẩn thận sử dụng chúng đúng cách.
+NHÀ PHÁT TRIỂN ỨNG DỤNG NÀY SẼ KHÔNG CHỊU TRÁCH NHIỆM VỀ BẤT CỨ TỔN HẠI NÀO GÂY RA CHO THIẾT BỊ CỦA BẠN!
 
-<b>App Manager:</b>
-★ clear app data or app cache
-★ enable/disable (freeze) apps
-★ uninstall apps
+<b>Quản Lý Ứng Dụng:</b>
+★ dữ liệu ứng dụng rõ ràng hoặc bộ nhớ cache của ứng dụng
+★ bật / tắt (đóng băng) ứng dụng
+★ gỡ bỏ cài đặt ứng dụng
 
 <b>Flash Wizard:</b>
-★ install flashable zip files
-★ create flash queue for several zip files
+★ cài đặt các flashable zip
+★ tạo hàng đợi flash cho một số tập tin zip
 ★ flash boot (kernel) images
 ★ flash recovery images
 
 <b>Init.d Emulator:</b>
-★ run scripts at startup
-★ no native init.d support required
+★ chạy các tập lệnh khi khởi động
+★ không yêu cầu hỗ trợ gốc init.d
 
-<b>Build.prop Editor:</b>
-★ edit your ROM's build properties
+<b>Chỉnh sửa Build.prop:</b>
+★ chỉnh sửa thuộc tính của ROM 
 
-<b>Advanced Reboot:</b>
-★ Boot into recovery or bootloader (fastboot)
+<b>Khởi động lại Nâng cao:</b>
+★ Khởi động vào recovery hoặc bootloader (fastboot)
 
-<b>Widgets:</b>
-★ Task Cleaner
-★ Advanced Reboot
+<b>Tiện ích:</b>
+★ Dọn tác vụ
+★ Khởi động nâng cao
